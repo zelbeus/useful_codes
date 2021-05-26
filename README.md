@@ -6,3 +6,5 @@ Useful codes for RedM and the RedEMRP framework, best for beginners
 ### 3. Function that returns true or false, if the given control key is pressed
 ### 4. Command with ped's model hash and size that spawns the ped with model and in size given. /npc modelhash size Good for checking how does it look.
 ### 5. Command with object's model hash that spawns the object. Good for checking how does it look.
+
+More on Discord (https://discord.gg/CcZ7QmHJWu) or Tebex (https://ricx-scripts.tebex.io/)
